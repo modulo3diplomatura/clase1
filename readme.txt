@@ -25,5 +25,5 @@ git config --global user.name "Tu Nombre"
 git config --global user.email "tu_correo@example.com"
 
 Configuración local por proyecto
-git config user.name "Tu Nombre" 
+git config user.name "modulo3diplomatura" 
 git config user.email "tu_correo@example.com"
